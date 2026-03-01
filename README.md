@@ -28,6 +28,7 @@ Role-Based Access Control:
 -Dockerized Deployment: Seamlessly containerized using Docker for portability and consistency.
 
 -Built with Next.js: Utilizes Next.js for server-side rendering, static site generation, and optimal performance.
+
 -----------------------------------------------------------------------------------------------------------------------
 Tech Stack
 
@@ -38,5 +39,6 @@ Tech Stack
 -Database: PostgreSQL (or other supported relational databases)
 
 -Deployment: Docker for containerization
+
 
 
