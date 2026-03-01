@@ -1,4 +1,4 @@
-#School Web App
+School Web App
 -----------------------------------------------------------------------------------------------------------------------
 This project is a modern, responsive, and scalable web application built for managing and enhancing school operations. It leverages the latest web technologies to provide a seamless experience for both administrators and students.
 
@@ -39,6 +39,7 @@ Tech Stack
 -Database: PostgreSQL (or other supported relational databases)
 
 -Deployment: Docker for containerization
+
 
 
 
